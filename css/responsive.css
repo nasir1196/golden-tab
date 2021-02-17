@@ -1,0 +1,9 @@
+@media(max-width:768px){
+    .first-about{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .first-img{
+        margin: 0 auto;
+    }
+}

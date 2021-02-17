@@ -3,8 +3,19 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-.img-round{
-    border: 5px solid goldenrod;
-    border-radius: 65px;
-    padding: 28px;
+.img-round {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid goldenrod;
+  border-radius: 65px;
+  height: 80px;
+  width: 80px;
 }
+.last-box{
+  border-radius: 100px;
+  height: 200px;
+  width: 200px;
+  background-color: goldenrod;
+}
+
