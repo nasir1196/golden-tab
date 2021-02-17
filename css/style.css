@@ -3,6 +3,9 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+.portfolio-section{
+  background-color: #f0ecec;
+}
 .img-round {
   display: flex;
   justify-content: center;
@@ -14,8 +17,11 @@
 }
 .last-box{
   border-radius: 100px;
-  height: 200px;
-  width: 200px;
+  height: 180px;
+  width: 180px;
   background-color: goldenrod;
+}
+.amazing-section{
+  background-color: #eeecec;
 }
 
