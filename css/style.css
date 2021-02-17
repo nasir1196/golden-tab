@@ -1,0 +1,10 @@
+#head-bg {
+  background-image: url(../images/bg/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.img-round{
+    border: 5px solid goldenrod;
+    border-radius: 65px;
+    padding: 28px;
+}
